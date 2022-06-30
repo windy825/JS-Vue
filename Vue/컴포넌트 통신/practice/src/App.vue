@@ -10,7 +10,7 @@
       :parentData = "parentData"
       :childData = "childData"
       @child-input-change = 'onChildInputChange'
-      @parent-input-change = onParentInputChange
+      @parent-input-change = 'onParentInputChange'
 
     ></app-parent>
   </div>
