@@ -14,4 +14,5 @@
 align code
 08/1 제출네ㅣ
 rn
-[rn] splash screen ()
+[rn] splash screen 
+react-native-video / 
