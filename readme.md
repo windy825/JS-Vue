@@ -16,3 +16,5 @@ align code
 rn
 [rn] splash screen 
 react-native-video / 
+
+0814 파일 이전 >> react native gitlab
